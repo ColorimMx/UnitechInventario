@@ -1,7 +1,7 @@
 /***
 JobGen Plus, (C)Unitech America Inc.
 
-job: C:\Jobgen_dem\UnitechInventario\MAIN_CC2.jgp
+job: C:\Jobgen_dem\UnitechInventario\Usuario\MAIN_CC2.jgp
 
 target: HT-630
 
@@ -67,7 +67,7 @@ struct CtrlData __cdata[] = {
 "\x6E\x69\x63\x69\x6F\x09\x0A\x01\x53\x65\x6C\x5F\x43\x6F\x6E"
 "\x74\x09\x0B\x01\x00",
 32134, "\x43\x6F\x6E\x74\x65\x6F\x00",
-32133, "\x49\x6E\x76\x5F\x56\x41\x31\x33\x2E\x65\x78\x65\x00",
+32133, "\x43\x6F\x6E\x74\x65\x6F\x2E\x65\x78\x65\x00",
 4122, "\x00\x00\x05\x00",
 4121, "\x20\x20\x20\x20\x43\x4F\x4C\x4F\x52\x41\x4E\x54\x45\x53\x0A"
 "\x20\x20\x20\x20\x49\x4D\x50\x4F\x52\x54\x41\x44\x4F\x53\x20"
@@ -128,7 +128,7 @@ struct CtrlData __cdata[] = {
 
 struct CtrlCenter ccnt = {
 "HT-630",
-"C:\\Jobgen_dem\\UnitechInventario\\MAIN_CC2.jgp",
+"C:\\Jobgen_dem\\UnitechInventario\\Usuario\\MAIN_CC2.jgp",
 "",
 1,
 4,
