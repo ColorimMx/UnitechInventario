@@ -1,0 +1,1 @@
+This is a sample to make your own simple cash register application on the PT630.
