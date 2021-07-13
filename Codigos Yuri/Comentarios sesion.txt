@@ -1,0 +1,41 @@
+Revisar con Luis y benjamin las unidades de venta para definir cuales sku son correctos
+
+
+Codigos de anilinas ya estan dados de alta?
+No
+Hay codigos duplicados
+faltan codigos sku
+codigos de sku, diferentes a archivo 
+
+Codigos Yuri
+Universo 905
+SKU 743 
+SKU Sin codigo 162
+Colectiva 331
+Colectiva sin codigo 574
+Corrugados 869
+Corrugados sin codigo 36
+
+MBA3
+Universo 4687
+SKU principal 549
+SKU Sin codigo 4138
+SKu alt 17
+SKu alt sin codigo 4670
+Colectiva 1
+Colectiva sin codigo 4686
+Corrugado 2
+Corrugados sin codigo 4685
+
+Realizar sesion con benjamin y con Luis
+
+
+
+
+
+
+
+
+
+
+
